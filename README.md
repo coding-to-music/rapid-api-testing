@@ -34,6 +34,21 @@ https://docs.rapidapi.com/v2.0/docs/getting-started-with-rapidapi-sdks
 [Everything You Need to Know About the Fetch API in 8 Minutes | API BASICS](https://youtu.be/hpSz0RE3D-E)
 
 
+## How to Use RapidQL
+
+[How to Use RapidQL — Data From Multiple Sources in One Query(https://www.youtube.com/watch?v=-rBlFsHkF7U)]
+
+One Query, Many Sources.
+
+RapidQL lets you join, combine, and aggregate data from multiple APIs and databases — all in one call.
+
+Get started: https://rapidql.com/
+RapidQL Docs: https://docs.rapidql.com/
+
+IP Geo Location API: https://rapidapi.com/natkapral/api/ip...
+Open Weather Map API: https://rapidapi.com/community/api/op...
+
+Twitter: @Rapid_API
 
 
 
