@@ -42,7 +42,7 @@ index.html
 
 Results:
 
-did not return the promise - was not visible in the browser console
+- did not return the promise - was not visible in the browser console
 
 ## Fetch API in 8 Minutes
 
@@ -51,7 +51,7 @@ did not return the promise - was not visible in the browser console
 
 ## How to Use RapidQL
 
-[How to Use RapidQL — Data From Multiple Sources in One Query(https://www.youtube.com/watch?v=-rBlFsHkF7U)]
+[How to Use RapidQL — Data From Multiple Sources in One Query](https://www.youtube.com/watch?v=-rBlFsHkF7U)
 
 One Query, Many Sources.
 
