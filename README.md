@@ -27,9 +27,24 @@ https://rapidapi.com/michaelrbock/api/edmunds/
 
 https://docs.rapidapi.com/v2.0/docs/getting-started-with-rapidapi-sdks
 
-## Videos
+# Videos
+
+## Fetch a Chuck Norris API in JavaScript
 
 [Fetch a Chuck Norris API in JavaScript in 7 Minutes | API Basics](https://youtu.be/OinmKcdJaWo)
+
+Two files edited
+
+```java
+fetch.js
+index.html
+```
+
+Results:
+
+did not return the promise - was not visible in the browser console
+
+## Fetch API in 8 Minutes
 
 [Everything You Need to Know About the Fetch API in 8 Minutes | API BASICS](https://youtu.be/hpSz0RE3D-E)
 
