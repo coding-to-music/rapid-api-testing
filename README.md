@@ -36,6 +36,7 @@ https://docs.rapidapi.com/v2.0/docs/getting-started-with-rapidapi-sdks
 Two files edited
 
 ```java
+# directory fetch-chuck-norris-api-in-javascript
 fetch.js
 index.html
 ```
@@ -48,10 +49,21 @@ Results:
 
 [Everything You Need to Know About the Fetch API in 8 Minutes | API BASICS](https://youtu.be/hpSz0RE3D-E)
 
+```java
+# directory fetch-api-in-eight-minutes
+fetch.js
+index.html
+```
 
-## How to Use RapidQL
+## How to Use RapidQL - Fetch Data From Multiple Sources in One Query 
 
 [How to Use RapidQL — Data From Multiple Sources in One Query](https://www.youtube.com/watch?v=-rBlFsHkF7U)
+
+```java
+# fetch-data-from-multiple-sources-one-query
+fetch.js
+index.html
+```
 
 One Query, Many Sources.
 
